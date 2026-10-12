@@ -1,0 +1,11 @@
+﻿av>=11,<19
+faster-whisper>=1.2.1
+livekit-agents>=1.8.6
+livekit-plugins-openai>=1.8.6
+piper-tts>=1.8.0
+python-dotenv>=1.2.4
+requests>=2.34.2
+sounddevice
+noisereduce==3.0.3
+silero-vad
+torch
